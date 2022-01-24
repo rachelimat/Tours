@@ -1,5 +1,5 @@
 ##  Tours
-#Tours Management System REST service
+Tours Management System REST service
 
 The management system for the service of a travel company,
 which stores in the cloud information about trips organized by the company.
